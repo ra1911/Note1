@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c401a8a9-b968-4d83-bc7d-39d26eb6e12f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>4macro.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +22,6 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="4macro.py" />
     <Compile Include="HellowWorld.py">
       <SubType>Code</SubType>
     </Compile>
